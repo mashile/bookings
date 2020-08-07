@@ -9,5 +9,5 @@ import './owl-carousel.css';
 import './hero-slider.css';
 
 // Write Javascript code!
-const appDiv = document.getElementById('app');
+//const appDiv = document.getElementById('app');
 //appDiv.innerHTML = `<h1>js starter</h1>`;

@@ -3,6 +3,16 @@
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+// Import stylesheets
+import './bootstrap.css';
+import './tooplate-style.css';
+import './bootstrap-theme.css';
+import './datepicker.css';
+import './fontAwesome.css';
+import './hero-slider.css';
+import './owl-carousel.css';
+import './hero-slider.css';
+
 
 if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')

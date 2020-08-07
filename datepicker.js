@@ -3,6 +3,15 @@
  *
  * Licensed under the Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0)
  */
+// Import stylesheets
+import './bootstrap.css';
+import './tooplate-style.css';
+import './bootstrap-theme.css';
+import './datepicker.css';
+import './fontAwesome.css';
+import './hero-slider.css';
+import './owl-carousel.css';
+import './hero-slider.css';
 
 (function(factory){
     if (typeof define === "function" && define.amd) {

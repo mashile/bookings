@@ -1,3 +1,13 @@
+// Import stylesheets
+import './bootstrap.css';
+import './tooplate-style.css';
+import './bootstrap-theme.css';
+import './datepicker.css';
+import './fontAwesome.css';
+import './hero-slider.css';
+import './owl-carousel.css';
+import './hero-slider.css';
+
 jQuery(document).ready(function($){
   var slidesWrapper = $('.cd-hero-slider');
 
